@@ -1,4 +1,3 @@
-
 package org.apache.spark.ml.linreg
 
 import breeze.linalg.{*, DenseMatrix, DenseVector}
